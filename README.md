@@ -22,11 +22,11 @@ string CalculateBarWeights(bool isWomensBar, bool isCompetition){
 | Men's Bar      | 20  | =====       |
 | Competition Clips     | 2.5 |C      |
 | Training Clips      | 0 | c      |
-| White Changeplate   | 0.5  | w      |
-| Green Changeplate    | 1  | g       |
-| Yellow Changeplate  | 1.5  | y       |
-| Blue Changeplate  | 2  | b       |
-| Red Changeplate  | 2.5  | r       |
+| White changeplate   | 0.5  | w      |
+| Green changeplate    | 1  | g       |
+| Yellow change plate  | 1.5  | y       |
+| Blue change plate  | 2  | b       |
+| Red Change plate  | 2.5  | r       |
 | White     | 5  | W       |
 | Green    | 10  | G       |
 | Yellow   | 15  | Y       |
