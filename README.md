@@ -6,7 +6,7 @@ Create's a program that generates a visual for the plates needed to load a given
 - [ ] Clips vs competition clips
 - [ ] Plates must be loaded properly
 - [ ] Program must work with all numbers from empty bar to current world record clean and jerk + 5 kg for men and women
-- [ ] Must follow Competition Loading for both competition and training
+- [ ] Must follow competition loading (rules)[https://iwf.sport/wp-content/uploads/downloads/2020/01/IWF_TCRR_2020.pdf] for both competition and training
 - [ ] If a weight is above the men's and women's heavy weight world records, print "Are you sure you're not using pounds?"
 
 The fundamental method must be:
