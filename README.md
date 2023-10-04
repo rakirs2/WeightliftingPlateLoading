@@ -33,6 +33,8 @@ string CalculateBarWeights(bool isWomensBar, bool isCompetition){
 | Blue   | 20  | B       |
 | Red   | 25  | R       |
 
+## Solution tips and tricks
+This solution comes with a basic test suite that checks a few weights. It is not complete. Feel free to add as many tests as you see fit.
 
 ## Examples
 ### 100 mens, competition clips
