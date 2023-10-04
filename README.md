@@ -7,13 +7,20 @@ Create's a program that generates a visual for the plates needed to load a given
 - [ ] Plates must be loaded properly
 - [ ] Program must work with all numbers from empty bar to current world record clean and jerk + 5 kg for men and women
 
-## Representations
-| Item        | Weight     | Representation |
+The fundamental method must be:
+```C#
+string CalculateBarWeights(bool isWomensBar, bool isCompetition){
+}
+```
+
+
+## Representation
+| Item        | Weight  Kg   | Representation |
 |--------------|-----------|------------|
 | Women's Bar | 15     | -----       |
 | Men's Bar      | 20  | =====       |
 | Competition Clips     | 2.5 |C      |
-| Light Clips      | 0 | c      |
+| Training Clips      | 0 | c      |
 | Small White     | 0.5  | w      |
 | Small Green    | 1  | g       |
 | Small Yellow   | 1.5  | y       |
@@ -27,16 +34,19 @@ Create's a program that generates a visual for the plates needed to load a given
 
 
 ## Examples
-100 mens, competition clips
+### 100 mens, competition clips
 
 CrGR=====RGrC
 
-100 mens, normal clips
+### 100 mens, training clips
 
 cYR=====RYc
 
-100 women's, competitionClips
+### 100 women's, competitionClips
 
 CYR-----RYC
+
+
+
 
 
