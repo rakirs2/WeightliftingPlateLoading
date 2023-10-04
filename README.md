@@ -5,6 +5,7 @@ Create's a program that generates a visual for the plates needed to load a given
 - [ ] Must have a toggle for mens bar and women's bar
 - [ ] Clips vs competition clips
 - [ ] Plates must be loaded properly
+- [ ] Program must work with all numbers from empty bar to current world record clean and jerk + 5 kg for men and women
 
 ## Representations
 | Item        | Weight     | Representation |
@@ -37,7 +38,5 @@ cYR=====RYc
 100 women's, competitionClips
 
 CYR-----RYC
-
-
 
 
