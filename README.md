@@ -7,6 +7,7 @@ Create's a program that generates a visual for the plates needed to load a given
 - [ ] Plates must be loaded properly
 - [ ] Program must work with all numbers from empty bar to current world record clean and jerk + 5 kg for men and women
 - [ ] Must follow Competition Loading for both competition and training
+- [ ] If a weight is above the men's and women's heavy weight world records, print "Are you sure you're not using pounds?"
 
 The fundamental method must be:
 ```C#
@@ -48,5 +49,41 @@ CYR-----RYC
 
 
 
+## Program examples
+
+```
+Is this a mens bar?
+y
+Is this a competition?
+y
+What is the weight?
+100
+
+Your bar is:
+CrGR=====RGrC
+```
+
+```
+Is this a mens bar?
+n
+Is this a competition?
+y
+What is the weight?
+100
+
+Your bar is:
+CYR-----RYC
+```
+
+```
+Is this a mens bar?
+n
+Is this a competition?
+y
+What is the weight?
+1000
+
+"Are you sure you're not using pounds?"
+```
 
 
