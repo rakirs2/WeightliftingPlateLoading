@@ -24,5 +24,20 @@ Create's a program that generates a visual for the plates needed to load a given
 | Blue   | 20  | B       |
 | Red   | 25  | R       |
 
-20 kg mens
+
+## Examples
+100 mens, competition clips
+
+CrGR=====RGrC
+
+100 mens, normal clips
+
+cYR=====RYc
+
+100 women's, competitionClips
+
+CYR-----RYC
+
+
+
 
